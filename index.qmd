@@ -1,9 +1,9 @@
 ---
-title: "Creating SaaS Application - Clean Code"
+title: "Creating SaaS Application - Programming Language"
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-This is a part of "Creating SaaS Application" at <https://vanheemstrasystems.github.io/creating-saas-application/>
+This is a part of "Creating SaaS Application - Tech Stack" at <https://vanheemstrasystems.github.io/creating-saas-application-tech-stack/>
