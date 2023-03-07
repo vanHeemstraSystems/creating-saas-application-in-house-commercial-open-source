@@ -2,33 +2,66 @@
 	"name": "topics",
 	"children": [
 		{
-			"name": "Server-Side Framework",
+			"name": "Database",
 			"children": [{
-					"name": "Choosing a Server-Side Framework",
+					"name": "Choosing a Database",
 					"value": 50
 				},
 				{
-					"name": "Problem Fit",
+					"name": "Relational Databases",
 					"value": 50
 				},
 				{
-					"name": "Data Layer",
+					"name": "NoSQL Databases",
+					"children": [
+					  {
+					    "name": "Key-Value Stores",
+					    "value": 50
+				          },
+					  {
+					    "name": "Document Stores",
+					    "value": 50
+				          }
+					]
+				},
+				{
+					"name": "Column-Oriented Databases",
 					"value": 50
 				},
 				{
-					"name": "View Layer",
+					"name": "Graph Databases",
 					"value": 50
 				},
 				{
-					"name": "Build-In View Helpers",
+					"name": "Reading Data",
 					"value": 50
 				},
 				{
-					"name": "Server-Side versus Client-Side",
+					"name": "Writing Data",
 					"value": 50
 				},
 				{
-					"name": "Logic versus Logic-less Templates",
+					"name": "Schemas",
+					"value": 50
+				},
+				{
+					"name": "Scalability",
+					"value": 50
+				},
+				{
+					"name": "Replication",
+					"value": 50
+				},
+				{
+					"name": "Partitioning",
+					"value": 50
+				},
+				{
+					"name": "Failure Modes",
+					"value": 50
+				},
+				{
+					"name": "Maturity",
 					"value": 50
 				}
 			]
