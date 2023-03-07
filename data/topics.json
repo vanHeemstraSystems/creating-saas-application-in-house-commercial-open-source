@@ -2,30 +2,9 @@
 	"name": "topics",
 	"children": [
 		{
-			"name": "Programming Language",
+			"name": "Server-Side Framework",
 			"children": [{
-					"name": "Choosing a Programming Language",
-					"value": 50
-				},
-				{
-					"name": "Programming Paradigms",
-					"children": [
-					  {
-					    "name": "Object-oriented Programming",
-					    "value": 50
-				          },
-				          {
-					    "name": "Functional Programming",
-					    "value": 50
-				          }
-					]
-				},
-				{
-					"name": "Static typing",
-					"value": 50
-				},
-				{
-					"name": "Automatic Memory Management",
+					"name": "Choosing a Server-Side Framework",
 					"value": 50
 				},
 				{
@@ -33,11 +12,23 @@
 					"value": 50
 				},
 				{
-					"name": "Performance",
+					"name": "Data Layer",
 					"value": 50
 				},
 				{
-					"name": "Productivity",
+					"name": "View Layer",
+					"value": 50
+				},
+				{
+					"name": "Build-In View Helpers",
+					"value": 50
+				},
+				{
+					"name": "Server-Side versus Client-Side",
+					"value": 50
+				},
+				{
+					"name": "Logic versus Logic-less Templates",
 					"value": 50
 				}
 			]
