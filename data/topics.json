@@ -2,41 +2,42 @@
 	"name": "topics",
 	"children": [
 		{
-			"name": "Clean Code",
+			"name": "Programming Language",
 			"children": [{
-					"name": "Code Layout",
+					"name": "Choosing a Programming Language",
 					"value": 50
 				},
 				{
-					"name": "Naming",
+					"name": "Programming Paradigms",
+					"children": [
+					  {
+					    "name": "Object-oriented Programming",
+					    "value": 50
+				          },
+				          {
+					    "name": "Functional Programming",
+					    "value": 50
+				          }
+					]
+				},
+				{
+					"name": "Static typing",
 					"value": 50
 				},
 				{
-					"name": "Error Handling",
+					"name": "Automatic Memory Management",
 					"value": 50
 				},
 				{
-					"name": "Don't Repeat Yourself (DRY)",
+					"name": "Problem Fit",
 					"value": 50
 				},
 				{
-					"name": "Single Responsibility Principle (SRP)",
+					"name": "Performance",
 					"value": 50
 				},
 				{
-					"name": "Functional Programming",
-					"value": 50
-				},
-				{
-					"name": "Loose Coupling",
-					"value": 50
-				},
-				{
-					"name": "High Cohesion",
-					"value": 50
-				},
-				{
-					"name": "Refactoring",
+					"name": "Productivity",
 					"value": 50
 				}
 			]
