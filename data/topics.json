@@ -1,0 +1,45 @@
+{
+	"name": "topics",
+	"children": [
+		{
+			"name": "Clean Code",
+			"children": [{
+					"name": "Code Layout",
+					"value": 50
+				},
+				{
+					"name": "Naming",
+					"value": 50
+				},
+				{
+					"name": "Error Handling",
+					"value": 50
+				},
+				{
+					"name": "Don't Repeat Yourself (DRY)",
+					"value": 50
+				},
+				{
+					"name": "Single Responsibility Principle (SRP)",
+					"value": 50
+				},
+				{
+					"name": "Functional Programming",
+					"value": 50
+				},
+				{
+					"name": "Loose Coupling",
+					"value": 50
+				},
+				{
+					"name": "High Cohesion",
+					"value": 50
+				},
+				{
+					"name": "Refactoring",
+					"value": 50
+				}
+			]
+		}
+	]
+}
