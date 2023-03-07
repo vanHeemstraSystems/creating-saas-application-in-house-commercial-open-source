@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Creating SaaS Application - Database"
+  title: "Creating SaaS Application - In-House, Commercial, Open-Source"
   navbar:
     left:
       - href: index.qmd
