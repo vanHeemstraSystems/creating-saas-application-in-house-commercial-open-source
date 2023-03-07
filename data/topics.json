@@ -2,17 +2,17 @@
 	"name": "topics",
 	"children": [
 		{
-			"name": "In-House, Commercial, Open-Source",
+			"name": "Build In-House, Buy Commercial, or Use Open-Source",
 			"children": [{
-					"name": "In-House",
+					"name": "Build In-House",
 					"value": 50
 				},
 				{
-					"name": "Commercial",
+					"name": "Buy Commercial",
 					"value": 50
 				},
 				{
-					"name": "Open-Source",
+					"name": "Use Open-Source",
 					"value": 50
 				}
 			]
