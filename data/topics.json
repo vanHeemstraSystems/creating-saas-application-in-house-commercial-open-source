@@ -2,66 +2,17 @@
 	"name": "topics",
 	"children": [
 		{
-			"name": "Database",
+			"name": "In-House, Commercial, Open-Source",
 			"children": [{
-					"name": "Choosing a Database",
+					"name": "In-House",
 					"value": 50
 				},
 				{
-					"name": "Relational Databases",
+					"name": "Commercial",
 					"value": 50
 				},
 				{
-					"name": "NoSQL Databases",
-					"children": [
-					  {
-					    "name": "Key-Value Stores",
-					    "value": 50
-				          },
-					  {
-					    "name": "Document Stores",
-					    "value": 50
-				          }
-					]
-				},
-				{
-					"name": "Column-Oriented Databases",
-					"value": 50
-				},
-				{
-					"name": "Graph Databases",
-					"value": 50
-				},
-				{
-					"name": "Reading Data",
-					"value": 50
-				},
-				{
-					"name": "Writing Data",
-					"value": 50
-				},
-				{
-					"name": "Schemas",
-					"value": 50
-				},
-				{
-					"name": "Scalability",
-					"value": 50
-				},
-				{
-					"name": "Replication",
-					"value": 50
-				},
-				{
-					"name": "Partitioning",
-					"value": 50
-				},
-				{
-					"name": "Failure Modes",
-					"value": 50
-				},
-				{
-					"name": "Maturity",
+					"name": "Open-Source",
 					"value": 50
 				}
 			]
